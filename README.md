@@ -174,10 +174,4 @@ L'application utilise une palette de couleurs violet pastel et noir :
 - Backend : Logs dans la console
 - Frontend : Console du navigateur
 
-## 📄 Licence
 
-Ce projet est sous licence MIT.
-
-## 👨‍💻 Auteur
-
-Développé avec ❤️ pour l'application Kwak
